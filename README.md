@@ -3,7 +3,7 @@
 2. Install Solana from https://docs.solana.com/cli/install-solana-cli-tools#use-solanas-install-tool
 
 ### Build and test for program compiled natively
-```
+`` hey tim`
 $ cargo build
 $ cargo test
 ```
